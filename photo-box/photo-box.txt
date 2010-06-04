@@ -1,0 +1,28 @@
+Photo Box Action
+Adobe Photoshop Action by James Middleton
+Suitable for versions CS1 onward.
+
+Product: Photo Box Action
+Company: Turning Turnip
+Website: www.turningturnip.co.uk
+Type: Photoshop Action (CS1+)
+Requirements: PC
+
+Turn any image into a realistic 3d-effect photo cube!
+
+To find out more visit: www.turningturnip.co.uk/photoshop
+
+Credits: ©Copyright 2005 Turning Turnip - All rights reserved. Unauthorised copying, lending, & broadcasting is strictly prohibited.
+
+Installation:
+1. To install action, locate the following folder : "../Adobe Photoshop/Presets/Photoshop Actions"
+2. Create a new folder within the above address and call it - "TT actions"
+3. Start up Adobe Photoshop
+4. Open the Actions floating palette (menu: Window > Actions)
+5. Click on the small arrow with in a circle at the top right hand corner of the palette and choose "Load Actions"
+6. Load your Action file (from the folder you created earlier) to complete
+
+aklehjklejf
+kasdhfklhdklfh
+
+ehklehhkle.
